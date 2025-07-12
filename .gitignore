@@ -1,0 +1,5 @@
+/.venv
+/train_data
+/test_data
+/models
+/tuners
