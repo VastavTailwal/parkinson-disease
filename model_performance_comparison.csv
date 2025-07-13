@@ -1,4 +1,0 @@
-Model,Train Accuracy,Test Accuracy,Train Precision,Test Precision,Train Recall,Test Recall,Train F1 Score,Test F1 Score
-ANN,0.72,0.7,0.63,0.62,1.0,1.0,0.78,0.77
-CNN,0.9,0.8,0.97,1.0,0.82,0.6,0.89,0.75
-Hybrid,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
